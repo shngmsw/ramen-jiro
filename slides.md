@@ -3,7 +3,7 @@ theme: the-unnamed # https://sli.dev/themes/gallery.html
 title: ラーメン二郎について
 download: false
 lineNumbers: true
-background: https://th.bing.com/th/id/R.9ec42bda78a15b18c8489b7ad97d7acd?rik=EpHM%2bhK0KjT1lw&riu=http%3a%2f%2flivedoor.blogimg.jp%2fka916916%2fimgs%2fe%2f0%2fe0ca5090.jpg&ehk=0Q1v%2fzBfThWPdv%2frXWijbwaMLognLIJoMzPr9XHucxE%3d&risl=&pid=ImgRaw&r=0
+background: /img/shakun.jpg
 class: 'text-center'
 themeConfig:
   color: "#000000"
